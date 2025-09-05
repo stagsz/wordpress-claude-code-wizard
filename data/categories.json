@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Art & Collectibles",
+    "slug": "art-collectibles"
+  },
+  {
+    "name": "Books & Media",
+    "slug": "books-media"
+  },
+  {
+    "name": "Antiques",
+    "slug": "antiques"
+  },
+  {
+    "name": "Furniture & Home",
+    "slug": "furniture-home"
+  },
+  {
+    "name": "Boutique Fashion",
+    "slug": "boutique-fashion"
+  },
+  {
+    "name": "Sports & Outdoor",
+    "slug": "sports-outdoor"
+  },
+  {
+    "name": "Vintage Clothing",
+    "slug": "vintage-clothing"
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics"
+  },
+  {
+    "name": "Designer Resale",
+    "slug": "designer-resale"
+  }
+]

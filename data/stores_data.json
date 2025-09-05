@@ -1,0 +1,342 @@
+{
+  "stores": [
+    {
+      "post_title": "Vintage Göteborg",
+      "post_content": "Premium vintage clothing boutique specializing in 1960s-1980s fashion. Carefully curated collection of authentic vintage pieces including designer finds, retro accessories, and unique statement pieces. Located in the heart of Haga district.",
+      "post_excerpt": "Premium vintage clothing boutique specializing in 1960s-1980s fashion. Carefully curated collection of authentic vintage pieces including designer fin...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Haga Nygata 15, 413 01 Göteborg",
+        "_store_phone": "+46 31-123 45 67",
+        "_store_website": "https://vintagegoteborg.se",
+        "_store_instagram": "@vintagegoteborg",
+        "_store_opening_hours": "Mon-Fri: 11:00-18:00\nSat: 10:00-16:00\nSun: 12:00-16:00",
+        "_store_rating": "4.5",
+        "_store_price_range": "$$",
+        "_store_latitude": "57.6989",
+        "_store_longitude": "11.9553",
+        "_store_google_maps_link": "https://maps.google.com/?q=Haga+Nygata+15+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "vintage-clothing"
+        ],
+        "store_district": [
+          "haga"
+        ]
+      }
+    },
+    {
+      "post_title": "Second Chance Designer",
+      "post_content": "Exclusive designer consignment boutique featuring luxury brands like Chanel, Hermès, Louis Vuitton, and Scandinavian designers. Authentication guaranteed. Perfect for fashion enthusiasts seeking authentic designer pieces at accessible prices.",
+      "post_excerpt": "Exclusive designer consignment boutique featuring luxury brands like Chanel, Hermès, Louis Vuitton, and Scandinavian designers. Authentication guarant...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Vallgatan 12, 411 16 Göteborg",
+        "_store_phone": "+46 31-234 56 78",
+        "_store_website": "https://secondchancedesigner.com",
+        "_store_instagram": "@secondchancedesigner",
+        "_store_opening_hours": "Mon-Fri: 10:00-19:00\nSat: 10:00-17:00\nSun: Closed",
+        "_store_rating": "4.8",
+        "_store_price_range": "$$$",
+        "_store_latitude": "57.7072",
+        "_store_longitude": "11.9668",
+        "_store_google_maps_link": "https://maps.google.com/?q=Vallgatan+12+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "designer-resale"
+        ],
+        "store_district": [
+          "centrum"
+        ]
+      }
+    },
+    {
+      "post_title": "Böcker & Mer",
+      "post_content": "Cozy independent bookstore and media shop in Linnéstaden. Extensive collection of used books in Swedish and English, vinyl records, vintage magazines, and rare finds. Perfect browsing atmosphere with reading corners and café.",
+      "post_excerpt": "Cozy independent bookstore and media shop in Linnéstaden. Extensive collection of used books in Swedish and English, vinyl records, vintage magazines,...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Järntorgsgatan 8, 413 04 Göteborg",
+        "_store_phone": "+46 31-345 67 89",
+        "_store_website": "https://bockerochmer.se",
+        "_store_instagram": "@bockerochmer",
+        "_store_opening_hours": "Mon-Fri: 10:00-18:00\nSat: 10:00-16:00\nSun: 12:00-16:00",
+        "_store_rating": "4.3",
+        "_store_price_range": "$",
+        "_store_latitude": "57.7021",
+        "_store_longitude": "11.9512",
+        "_store_google_maps_link": "https://maps.google.com/?q=Järntorgsgatan+8+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "books-media"
+        ],
+        "store_district": [
+          "linnstaden"
+        ]
+      }
+    },
+    {
+      "post_title": "Möbler & Minnen",
+      "post_content": "Scandinavian furniture and home décor warehouse in Majorna. Specializing in mid-century modern pieces, vintage lighting, and unique home accessories. From small decorative items to complete furniture sets.",
+      "post_excerpt": "Scandinavian furniture and home décor warehouse in Majorna. Specializing in mid-century modern pieces, vintage lighting, and unique home accessories. ...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Chapmans Torg 5, 414 55 Göteborg",
+        "_store_phone": "+46 31-456 78 90",
+        "_store_website": "https://moblerochminnen.se",
+        "_store_instagram": "@moblerochminnen",
+        "_store_opening_hours": "Tue-Fri: 11:00-18:00\nSat: 10:00-15:00\nSun-Mon: Closed",
+        "_store_rating": "4.1",
+        "_store_price_range": "$$",
+        "_store_latitude": "57.6889",
+        "_store_longitude": "11.9334",
+        "_store_google_maps_link": "https://maps.google.com/?q=Chapmans+Torg+5+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "furniture-home"
+        ],
+        "store_district": [
+          "majorna"
+        ]
+      }
+    },
+    {
+      "post_title": "Retro Tech Göteborg",
+      "post_content": "Electronics and technology from yesteryear. Vintage computers, gaming consoles, audio equipment, and rare tech collectibles. All items tested and restored. Paradise for tech enthusiasts and collectors.",
+      "post_excerpt": "Electronics and technology from yesteryear. Vintage computers, gaming consoles, audio equipment, and rare tech collectibles. All items tested and rest...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Stigbergstorget 3, 414 63 Göteborg",
+        "_store_phone": "+46 31-567 89 01",
+        "_store_website": "https://retrotech.goteborg.se",
+        "_store_instagram": "@retrotechgbg",
+        "_store_opening_hours": "Wed-Fri: 12:00-18:00\nSat: 10:00-16:00\nSun-Tue: Closed",
+        "_store_rating": "4.4",
+        "_store_price_range": "$$",
+        "_store_latitude": "57.6901",
+        "_store_longitude": "11.9387",
+        "_store_google_maps_link": "https://maps.google.com/?q=Stigbergstorget+3+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "electronics"
+        ],
+        "store_district": [
+          "majorna"
+        ]
+      }
+    },
+    {
+      "post_title": "Antikviteter Vasastan",
+      "post_content": "Traditional antique shop with over 30 years of history in Vasastan. Specializing in Swedish antiques, porcelain, silverware, furniture, and collectibles. Family-owned business with expertise in authentication and restoration.",
+      "post_excerpt": "Traditional antique shop with over 30 years of history in Vasastan. Specializing in Swedish antiques, porcelain, silverware, furniture, and collectibl...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Vasagatan 42, 411 37 Göteborg",
+        "_store_phone": "+46 31-678 90 12",
+        "_store_website": "https://antikvitetervasastan.se",
+        "_store_instagram": "@antikvitetervasastan",
+        "_store_opening_hours": "Mon-Fri: 10:00-17:00\nSat: 10:00-14:00\nSun: Closed",
+        "_store_rating": "4.6",
+        "_store_price_range": "$$$",
+        "_store_latitude": "57.7099",
+        "_store_longitude": "11.9747",
+        "_store_google_maps_link": "https://maps.google.com/?q=Vasagatan+42+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "antiques"
+        ],
+        "store_district": [
+          "vasastan"
+        ]
+      }
+    },
+    {
+      "post_title": "Haga Loppis",
+      "post_content": "Charming flea market-style shop in historic Haga district. Eclectic mix of vintage finds, curiosities, and treasures. Perfect for treasure hunters looking for unique pieces with character and history.",
+      "post_excerpt": "Charming flea market-style shop in historic Haga district. Eclectic mix of vintage finds, curiosities, and treasures. Perfect for treasure hunters loo...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Haga Nygata 28, 413 01 Göteborg",
+        "_store_phone": "+46 31-789 01 23",
+        "_store_website": "https://hagaloppis.se",
+        "_store_instagram": "@hagaloppis",
+        "_store_opening_hours": "Mon-Sat: 11:00-17:00\nSun: 12:00-16:00",
+        "_store_rating": "4.2",
+        "_store_price_range": "$",
+        "_store_latitude": "57.6981",
+        "_store_longitude": "11.9542",
+        "_store_google_maps_link": "https://maps.google.com/?q=Haga+Nygata+28+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "antiques"
+        ],
+        "store_district": [
+          "haga"
+        ]
+      }
+    },
+    {
+      "post_title": "Nordstan Fashion Outlet",
+      "post_content": "Multi-brand fashion outlet in Nordstan shopping center. Features discounted designer and premium brand clothing, shoes, and accessories. Great selection for fashion-conscious shoppers seeking quality at reduced prices.",
+      "post_excerpt": "Multi-brand fashion outlet in Nordstan shopping center. Features discounted designer and premium brand clothing, shoes, and accessories. Great selecti...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Nordstadstorget 10, 411 05 Göteborg",
+        "_store_phone": "+46 31-890 12 34",
+        "_store_website": "https://nordstanfashion.com",
+        "_store_instagram": "@nordstanfashion",
+        "_store_opening_hours": "Mon-Fri: 10:00-20:00\nSat: 10:00-18:00\nSun: 11:00-17:00",
+        "_store_rating": "4.0",
+        "_store_price_range": "$$",
+        "_store_latitude": "57.7086",
+        "_store_longitude": "11.9729",
+        "_store_google_maps_link": "https://maps.google.com/?q=Nordstadstorget+10+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "boutique-fashion"
+        ],
+        "store_district": [
+          "nordstan"
+        ]
+      }
+    },
+    {
+      "post_title": "Konsthantverk & Konst",
+      "post_content": "Art gallery and collectibles shop specializing in local Gothenburg artists, vintage prints, ceramics, and unique art pieces. Supporting local art community while offering affordable art for collectors and enthusiasts.",
+      "post_excerpt": "Art gallery and collectibles shop specializing in local Gothenburg artists, vintage prints, ceramics, and unique art pieces. Supporting local art comm...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Tredje Långgatan 15, 413 03 Göteborg",
+        "_store_phone": "+46 31-901 23 45",
+        "_store_website": "https://konsthantverk.goteborg.se",
+        "_store_instagram": "@konsthantverk_gbg",
+        "_store_opening_hours": "Tue-Fri: 11:00-18:00\nSat: 10:00-16:00\nSun-Mon: Closed",
+        "_store_rating": "4.3",
+        "_store_price_range": "$$",
+        "_store_latitude": "57.7011",
+        "_store_longitude": "11.9489",
+        "_store_google_maps_link": "https://maps.google.com/?q=Tredje+Långgatan+15+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "art-collectibles"
+        ],
+        "store_district": [
+          "linnstaden"
+        ]
+      }
+    },
+    {
+      "post_title": "Outdoor Begagnat",
+      "post_content": "Specialized outdoor and sports equipment store in Frölunda. Quality used gear for hiking, camping, skiing, and outdoor adventures. Perfect for outdoor enthusiasts looking for reliable equipment at great prices.",
+      "post_excerpt": "Specialized outdoor and sports equipment store in Frölunda. Quality used gear for hiking, camping, skiing, and outdoor adventures. Perfect for outdoor...",
+      "post_status": "publish",
+      "post_type": "secondhand_store",
+      "meta_fields": {
+        "_store_address": "Frölunda Torg 7, 421 42 Västra Frölunda",
+        "_store_phone": "+46 31-012 34 56",
+        "_store_website": "https://outdoorbegagnat.se",
+        "_store_instagram": "@outdoorbegagnat",
+        "_store_opening_hours": "Mon-Fri: 10:00-19:00\nSat: 09:00-16:00\nSun: 11:00-16:00",
+        "_store_rating": "4.4",
+        "_store_price_range": "$$",
+        "_store_latitude": "57.6478",
+        "_store_longitude": "11.9269",
+        "_store_google_maps_link": "https://maps.google.com/?q=Frölunda+Torg+7+Göteborg"
+      },
+      "taxonomies": {
+        "store_category": [
+          "sports-outdoor"
+        ],
+        "store_district": [
+          "frlunda"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Art & Collectibles",
+      "slug": "art-collectibles"
+    },
+    {
+      "name": "Books & Media",
+      "slug": "books-media"
+    },
+    {
+      "name": "Antiques",
+      "slug": "antiques"
+    },
+    {
+      "name": "Furniture & Home",
+      "slug": "furniture-home"
+    },
+    {
+      "name": "Boutique Fashion",
+      "slug": "boutique-fashion"
+    },
+    {
+      "name": "Sports & Outdoor",
+      "slug": "sports-outdoor"
+    },
+    {
+      "name": "Vintage Clothing",
+      "slug": "vintage-clothing"
+    },
+    {
+      "name": "Electronics",
+      "slug": "electronics"
+    },
+    {
+      "name": "Designer Resale",
+      "slug": "designer-resale"
+    }
+  ],
+  "districts": [
+    {
+      "name": "Majorna",
+      "slug": "majorna"
+    },
+    {
+      "name": "Vasastan",
+      "slug": "vasastan"
+    },
+    {
+      "name": "Nordstan",
+      "slug": "nordstan"
+    },
+    {
+      "name": "Linnéstaden",
+      "slug": "linnstaden"
+    },
+    {
+      "name": "Haga",
+      "slug": "haga"
+    },
+    {
+      "name": "Centrum",
+      "slug": "centrum"
+    },
+    {
+      "name": "Frölunda",
+      "slug": "frlunda"
+    }
+  ]
+}

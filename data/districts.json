@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Majorna",
+    "slug": "majorna"
+  },
+  {
+    "name": "Vasastan",
+    "slug": "vasastan"
+  },
+  {
+    "name": "Nordstan",
+    "slug": "nordstan"
+  },
+  {
+    "name": "Linnéstaden",
+    "slug": "linnstaden"
+  },
+  {
+    "name": "Haga",
+    "slug": "haga"
+  },
+  {
+    "name": "Centrum",
+    "slug": "centrum"
+  },
+  {
+    "name": "Frölunda",
+    "slug": "frlunda"
+  }
+]
