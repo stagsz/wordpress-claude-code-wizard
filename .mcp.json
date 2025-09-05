@@ -4,6 +4,30 @@
       "command": "npx",
       "args": ["@playwright/mcp@latest"],
       "env": {}
+    },
+     "desktop-commander": {
+      "command": "npx.cmd",
+      "args": [
+        "@wonderwhy-er/desktop-commander@latest"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-sequential-thinking"
+      ]
+    },
+    "puppeteer": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-puppeteer"]
+    },
+      "bright-data": {
+      "command": "npx",
+      "args": ["@brightdata/mcp"],
+      "env": {
+        "API_TOKEN": "8f0f06bb2033e8fc38c92710440c9c9f409d21081b4888c26ad250fe55b49222"
+      }
     }
   }
 }
