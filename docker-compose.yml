@@ -1,8 +1,6 @@
-version: '3.8'
-
 services:
   wordpress:
-    build: .
+    image: wordpress:6.8.1-apache
     container_name: wp-dev
     ports:
       - "80:80"

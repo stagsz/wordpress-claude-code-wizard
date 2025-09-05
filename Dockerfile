@@ -2,30 +2,26 @@ FROM ubuntu:22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
 
-# Install Apache, PHP 8.3, and extensions matching DO stack
+# Install Apache, PHP 8.1 (default for Ubuntu 22.04), and extensions
 RUN apt-get update && apt-get install -y \
-    software-properties-common \
+    apache2 \
+    php \
+    php-cli \
+    php-common \
+    php-mysql \
+    php-xml \
+    php-curl \
+    php-gd \
+    php-imagick \
+    php-mbstring \
+    php-zip \
+    php-intl \
+    php-bz2 \
+    php-bcmath \
+    php-soap \
+    libapache2-mod-php \
     curl \
     wget \
-    && add-apt-repository ppa:ondrej/php \
-    && apt-get update && apt-get install -y \
-    apache2 \
-    php8.3 \
-    php8.3-cli \
-    php8.3-common \
-    php8.3-mysql \
-    php8.3-xml \
-    php8.3-xmlrpc \
-    php8.3-curl \
-    php8.3-gd \
-    php8.3-imagick \
-    php8.3-mbstring \
-    php8.3-zip \
-    php8.3-intl \
-    php8.3-bz2 \
-    php8.3-bcmath \
-    php8.3-soap \
-    libapache2-mod-php8.3 \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
@@ -33,11 +29,11 @@ RUN apt-get update && apt-get install -y \
 RUN a2enmod rewrite headers expires deflate ssl
 
 # Configure PHP settings to match DO
-RUN echo "upload_max_filesize = 64M" >> /etc/php/8.3/apache2/php.ini && \
-    echo "post_max_size = 64M" >> /etc/php/8.3/apache2/php.ini && \
-    echo "max_execution_time = 300" >> /etc/php/8.3/apache2/php.ini && \
-    echo "max_input_time = 300" >> /etc/php/8.3/apache2/php.ini && \
-    echo "memory_limit = 256M" >> /etc/php/8.3/apache2/php.ini
+RUN echo "upload_max_filesize = 64M" >> /etc/php/8.1/apache2/php.ini && \
+    echo "post_max_size = 64M" >> /etc/php/8.1/apache2/php.ini && \
+    echo "max_execution_time = 300" >> /etc/php/8.1/apache2/php.ini && \
+    echo "max_input_time = 300" >> /etc/php/8.1/apache2/php.ini && \
+    echo "memory_limit = 256M" >> /etc/php/8.1/apache2/php.ini
 
 # Download and install WordPress
 RUN cd /tmp && \
